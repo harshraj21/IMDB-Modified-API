@@ -7,6 +7,7 @@
 3. Login to the heroku CLI (heroku login)
 4. Create a new heroku repo (heroku create)
 5. Deploy the repo (git push heroku master)
+6. Enjoy
 '''
 ------------------------------------
 
