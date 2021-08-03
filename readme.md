@@ -1,6 +1,13 @@
 # IMDB-Modified-API
 ------------------------------------
-
+**Steps to deploy your own**
+'''
+1. Clone this repo
+2. CD into the directory
+3. Login to the heroku CLI (heroku login)
+4. Create a new heroku repo (heroku create)
+5. Deploy the repo (git push heroku master)
+'''
 ------------------------------------
 
 ###### Targets
