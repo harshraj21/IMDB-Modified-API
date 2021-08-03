@@ -1,6 +1,6 @@
 # IMDB-Modified-API
 ------------------------------------
-**Steps to deploy your own**
+**Steps to deploy your own-**
 ```
 1. Clone this repo
 2. CD into the directory
